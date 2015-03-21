@@ -1,0 +1,1 @@
+Docker container of the latest Debian with Oracle Java 8.
