@@ -1,4 +1,4 @@
-FROM dshiplet/debian-base
+FROM ddshipl/debian-base
 MAINTAINER Daniel Shiplett <dshiplet@vt.edu>
 
 ENV JAVA_VERSION 1.8.0
